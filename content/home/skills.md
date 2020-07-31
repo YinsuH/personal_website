@@ -40,7 +40,7 @@ subtitle = ""
   description = "100%"  
   
 [[feasure]]
-  icon = "wechat"
+  icon = "weixin"
   icon_pack = "fab"
   name = "WeChatness"
   description = "100%"  
