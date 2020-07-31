@@ -65,3 +65,5 @@ user_groups:
 
 Yinsu Han is an undergraduate student at University of Chicago. Her primary interests include mathematics, economics and data science. 
 
+韩寅苏是芝加哥大学的一名在读本科生。她主修数学经济，辅修数据科学。
+
