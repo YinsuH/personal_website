@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Mathematics"
-  description = "50%"  
+  description = "60%"  
   
 [[feature]]
   icon = "camera-retro"
@@ -38,6 +38,14 @@ subtitle = ""
   icon_pack = "emoji"
   name = "Emojiness"
   description = "100%"  
+  
+[[feasure]]
+  icon = "wechat"
+  icon_pack = "fab"
+  name = "WeChatness"
+  description = "100%"  
+  
+  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
