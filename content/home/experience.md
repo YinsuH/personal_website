@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Illinois"
   date_start = "2019-09-23"
   date_end = ""
-  description = """
+  description = """ Major in mathematics with specialization in economics and minor in data science.
   """
 
 [[experience]]
